@@ -1,6 +1,6 @@
 # ilsa-kazi
 
-# 👋 Hi, I'm Ilsha Kazi
+# 👋 Hi, I'm Ilsa Kazi
 
 🎓 **BCA Graduate (2024)** | 🎓 **M.Sc. Cybersecurity (Final Semester)**  
 💻 Cybersecurity Enthusiast | Web Developer | AI & Automation Learner  
